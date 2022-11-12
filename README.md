@@ -1,2 +1,2 @@
 # Online-Website-Design
-Creation of a website on NanoTechnology using HTML, CSS and JavaScript programming languages.
+Creation of a website on NanoTechnology designed using HTML, CSS and JavaScript programming languages.
